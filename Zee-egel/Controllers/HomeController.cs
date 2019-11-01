@@ -23,7 +23,7 @@ namespace Zee_egel.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Gallery()
         {
             return View();
         }
