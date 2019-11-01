@@ -2,7 +2,7 @@ import {Selector, t} from 'testcafe';
 
 
 //x = Selector("#xyz");
-
+const homeAdress = '';
 
 
 test('Check if we can visit the homepage', async t => {
