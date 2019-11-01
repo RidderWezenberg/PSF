@@ -28,7 +28,7 @@ namespace Zee_egel.Controllers
             return View();
         }
 
-        public IActionResult Classsification()
+        public IActionResult Classification()
         {
             return View();
         }
