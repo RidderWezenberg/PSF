@@ -28,6 +28,11 @@ namespace Zee_egel.Controllers
             return View();
         }
 
+        public IActionResult Classsification()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
